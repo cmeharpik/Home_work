@@ -1,4 +1,5 @@
 Задания из PDF
+
 1.Determine_an_odd_number_Z1
 
 2.Find_the_mean_Z2
@@ -12,6 +13,7 @@
 6.Leap_year_or_not_Z6
 
 Задания из TXT
+
 1)1.1-1.5 Bitwise_operations_Z1_5
 
 2)2.0-2.9 Operator_priority_Z_2_9
