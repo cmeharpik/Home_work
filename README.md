@@ -1,5 +1,7 @@
 Задания из PDF
 
+package HomeWork_1
+
 1.Determine_an_odd_number_Z1
 
 2.Find_the_mean_Z2
@@ -15,6 +17,8 @@
 
 
 Задания из TXT
+
+package HomeWork_1
 
 1)1.1-1.5 Bitwise_operations_Z1_5
 
